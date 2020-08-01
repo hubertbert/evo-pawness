@@ -1,3 +1,8 @@
+# FORK
+https://github.com/haryoa/evo-pawness
+
+# Original README
+
 # EvoPawness Game
 
 Based on the article that I write  
